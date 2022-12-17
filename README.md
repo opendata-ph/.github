@@ -1,4 +1,4 @@
-<img src="https://github.com/opendata-ph/opendata-ph/blob/main/assets/img/banner3.png">
+<img src="https://github.com/opendata-ph/opendata-ph/blob/main/assets/img/banner4.png">
 
 ## About
 

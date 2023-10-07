@@ -1,12 +1,11 @@
-## Hi there 👋
+<img src="https://github.com/opendata-ph/opendata-ph/blob/main/assets/img/banner5.png">
 
-<!--
+## About
 
-**Here are some ideas to get you started:**
+Open Data PH pledges to deliver pertinent and helpful data to the open source community while upholding the data's integrity and to publish the data in formats that make it simple to use for Machine Learning, APIs, and other open source initiatives.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+For any copyright concerns, please feel free to contact us at phopendata@gmail.com; we will take down the data if the situation requires.
+
+---
+
+Learn more about Open Data PH at [opendata-ph.github.io](https://opendata-ph.github.io).
